@@ -4,7 +4,8 @@
 - 💞️ Open to Collaborate on: Python Projects  
 - 📫 Connect with me:  
   - 🔗 [LinkedIn](https://www.linkedin.com/in/mayank-chudasama-127b53318)  
-  - 📧 [Email](mailto:mayank.chudasama010@gmail.com)  
+  - 📧 [Email](mailto:mayank.chudasama010@gmail.com)
+  - 🐦 [X (Twitter)](https://x.com/CyberBoy_Mayank?t=39livb8ShPytaGT3vAobtw&s=09)
   - 📸 [Instagram](https://www.instagram.com/cyberboy_mayank)  
 - 😄 Pronouns: He/Him  
 - ⚡ Fun Fact: I enjoy watching anime and exploring new technologies during my free time.
