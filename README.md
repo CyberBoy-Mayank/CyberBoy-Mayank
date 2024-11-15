@@ -3,7 +3,7 @@
 - 💻 Current Role: Python/Flask Backend Developer Intern  
 - 💞️ Open to Collaborate on: Python Projects  
 - 📫 Connect with me:  
-  - 🔗 [LinkedIn](https://www.linkedin.com/in/mayank-chudasama-127b53318?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+  - 🔗 [LinkedIn](https://www.linkedin.com/in/mayank-chudasama-127b53318)  
   - 📧 [Email](mailto:mayank.chudasama010@gmail.com)  
   - 📸 [Instagram](https://www.instagram.com/cyberboy_mayank)  
 - 😄 Pronouns: He/Him  
