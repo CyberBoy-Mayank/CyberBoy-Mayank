@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mayank Chudasama [(CyberBoy-Mayank)](https://github.com/CyberBoy-Mayank)
 - 👀 Interested in: Backend Development, Python, SQL, Flask, HTML, and Bootstrap  
-- 💻 Current Role: Python/Flask Backend Developer Intern  
+- 💻 Current Role: Python Developer Intern  
 - 💞️ Open to Collaborate on: Python Projects  
 - 📫 Connect with me:  
   - 🔗 [LinkedIn](https://www.linkedin.com/in/mayank-chudasama-127b53318)  
