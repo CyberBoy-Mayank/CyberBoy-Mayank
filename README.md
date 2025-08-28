@@ -5,7 +5,7 @@
 
 ## 🚀 About Me  
 🔹 Software Developer specializing in **Python** and **Odoo**  
-🔹 Experienced in **backend development, ERP customization, and system integrations**  
+🔹 Experienced in **backend development, ERP customization, and API integrations**  
 🔹 Skilled at building **Flask web apps, RESTful APIs, SQL databases**, and automation workflows  
 🔹 Passionate about **clean architecture, scalable systems, and continuous learning**  
 
