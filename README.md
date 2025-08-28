@@ -36,9 +36,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberBoy-Mayank&layout=compact&theme=tokyonight" alt="langs" height="180"/>  
 </p>  
 
-<p align="center">  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CyberBoy-Mayank&theme=tokyonight" alt="streak" height="180"/>  
-</p>  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=CyberBoy-Mayank)](https://git.io/streak-stats)  
 
 ---
 
